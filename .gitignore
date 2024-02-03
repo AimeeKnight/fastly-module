@@ -1,0 +1,11 @@
+**/.terraform
+**/providers.tf
+**/terraform.tfvars
+**/terraform.tfstate
+**/account.json
+**/state.tf
+**/terraform.tfstate.backup
+**/crash.log
+*.tgz
+*.swp
+© 2022 GitHub, Inc.
