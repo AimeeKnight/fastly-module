@@ -2,7 +2,7 @@ terraform {
   required_providers {
     fastly = {
       source  = "fastly/fastly"
-      version = "2.2.1"
+      version = "2.2.1" #TODO: update needed.
     }
   }
   required_version = "~> 1.0.0"
